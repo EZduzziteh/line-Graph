@@ -1,0 +1,27 @@
+-Line Graph Program-
+-Created by Sasha Greene-
+-Instructions-
+
+Initial: 
+
+	Under Line Editor: 
+		-Click "Add New Line"
+			-This creates a line object - you can have many of these.
+		-Select a Color if you wish (this can be changed later)
+
+	Under Point Editor:
+		-Enter the X and Y coordinates of your first point.
+		-Click on "New Point"
+			-This creates a Point object that is stored within the currently selected Line.
+		*Note* You will have to create at least 2 points with different coordinates before you will see anything on the graph.
+Updating: 
+	
+	Under Line Editor: 
+		-Select the line you wish to edit
+			-Change the color with the dropdown
+	Under Point Editor: 
+		-Select the point you wish to edit(it will be one of the points on the line you just selected in the previous step)
+		-Enter the X and Y coordinates of the desired values for the selected point
+		-click "Update Point" and your graph should update!
+	
+	
